@@ -1,0 +1,15 @@
+.row {
+  padding: 5px;
+}
+.outline {
+  outline: auto;
+  padding: 25px;
+  position: absolute;
+  left: 450px;
+  bottom: 450px;
+}
+
+.rightInput {
+  position: relative;
+  left: 10px;
+}
